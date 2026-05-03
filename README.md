@@ -75,14 +75,14 @@ The main goal is to explore the dataset, clean it, and extract meaningful insigh
 ✨ Strong understanding of Pandas operations
 ✨ Better at extracting insights from raw datasets
 
- # 🔍 Key Insights
- 
-🌡️ Temperature, humidity, and visibility show noticeable variation across different weather conditions
-💨 Wind speed analysis revealed multiple distinct values and helped identify specific patterns
-🌥️ Certain weather conditions like Clear, Fog, and Snow occur more frequently than others
-📊 Grouping data by weather condition provided a clearer comparison of averages and extremes
-🧹 Data cleaning (handling null values, renaming columns) improved data quality and usability
-🔎 Conditional filtering enabled deeper exploration of specific scenarios (e.g., high wind speed & visibility cases)
+## 🔍 Key Insights
+
+* 🌡️ Temperature, humidity, and visibility vary across different weather conditions
+* 💨 Wind speed shows multiple distinct values and clear patterns
+* 🌥️ Weather like Clear, Fog, and Snow occurs more frequently
+* 📊 Grouping data helps compare averages and extremes easily
+* 🧹 Data cleaning improved overall data quality and usability
+* 🔎 Filtering helped analyze specific conditions (e.g., high wind speed & visibility cases)
 
 ## 📌 Conclusion
 
